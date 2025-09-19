@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ivana🌷</h1>
 <h3 align="center">Frontend developer and UXUI designer from Argentina <br> Portfolio: https://ivanabarreto-portfolio.netlify.app/</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanagbarreto&label=Profile%20views&color=0e75b6&style=flat" alt="ivanagbarreto" /> </p>
+
 
 
 
