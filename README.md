@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ivana🌷</h1>
+<h1 align="center"> ˚.♡⋆ Hi, I'm Ivana ⋆♡.˚</h1>
 <h3 align="center">Frontend developer and UXUI designer from Argentina <br> Portfolio: https://ivanabarreto-portfolio.netlify.app/</h3>
 
 
